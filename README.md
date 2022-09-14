@@ -9,7 +9,8 @@ I enjoy creating beautifully functional web applications I have a passion for Fi
 Hobbies- Fitness, Coding of course.  Reading and Financial topic.  I also like traveling and Entrepenuership.
 
 
-###Acheivements- 
+### Acheivements
+
 Marine Veteran 
 
 Graduate of General Assembly Remote Software Engineering Program. 
