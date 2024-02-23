@@ -15,7 +15,7 @@ Marine Veteran
 
 Graduate of General Assembly Remote Software Engineering Program. 
 
-BS Software Engineering
+BS Software Engineering - Keiser University
 
 Lumen Technologies Solutions Engineer College Connect
 
